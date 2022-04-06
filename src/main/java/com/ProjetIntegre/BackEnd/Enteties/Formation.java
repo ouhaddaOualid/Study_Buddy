@@ -1,4 +1,4 @@
-package Enteties;
+package com.ProjetIntegre.BackEnd.Enteties;
 
 public class Formation {
     private int formationId;
